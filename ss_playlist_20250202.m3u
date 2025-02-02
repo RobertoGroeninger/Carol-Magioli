@@ -10,7 +10,11 @@ http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND"  tvg-logo="https://i.imgur.com/nCJNjyN.png" group-title="♥Canais | ABERTO♥",Band RJ FHD
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g47oQ4n.png" group-title="♥Canais | ABERTO♥",SBT HD
+https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_SIMULCAST_CTV/TLBkp.m3u8?ads.start=1
+
 ################################################# ######################### Canais | REALIDADE
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 1
 https://cr7v.short.gy/ManoiTV/BBB01/index.m3u8
@@ -18,7 +22,7 @@ https://cr7v.short.gy/ManoiTV/BBB01/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 2
 https://cr7v.short.gy/ManoiTV/BBB02/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico   
 https://cr7v.short.gy/ManoiTV/CMosaico/index.m3u8
 
 
