@@ -2,7 +2,7 @@
 ################################################# ######################### Canais | ABERTO
 
 
-#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ alta definição
+#EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="# Canais | ABERT",Globo RJ alta definição
 https://stream1.freetv.fun/globo-rj-1.ctv
 
 ################################################# ######################### Canais | REALIDADE
@@ -18,6 +18,6 @@ https://cr7v.short.gy/ManoiTV/CMosaico/index.m3u8
 
 ################################################# ######################### Canais | GRAVAR TV
 
-#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="Canais | RECORD TV",RecordTV RJ-HD
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="https://i.imgur.com/lyQ1v9M.png" group-title="# Canais | ABERT",RecordTV RJ-HD
 http://78.159.122.147:2082/Chfdtu644FGH/Channelsyy566FGG/142
 
