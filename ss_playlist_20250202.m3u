@@ -5,3 +5,14 @@
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo RJ alta definição
 https://stream1.freetv.fun/globo-rj-1.ctv
 
+################################################# ######################### Canais | REALIDADE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 1
+https://cr7v.short.gy/ManoiTV/BBB01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",BBB Cam 2
+https://cr7v.short.gy/ManoiTV/BBB02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Realidade | BBB",Mosaico
+https://cr7v.short.gy/ManoiTV/CMosaico/index.m3u8
+
